@@ -11,7 +11,7 @@ MemeVerse - A Modern Meme Sharing Platform
 -	Cloudinary - Cloud storage for meme images
 
 # Features
-1. # Core Meme Features
+# Core Meme Features
 -	Meme Upload
 -	Support for images and GIFs
 -	Caption adding functionality
@@ -24,7 +24,7 @@ MemeVerse - A Modern Meme Sharing Platform
 -	Share functionality
 -	View count tracking
 
-2. # User Experience
+# User Experience
 -	Responsive Design
 -	Mobile-first approach
 -	Smooth transitions and animations
@@ -35,14 +35,14 @@ MemeVerse - A Modern Meme Sharing Platform
 -	Persistent theme settings
 -	Smooth theme transitions
 
-3. # User Profile
+# User Profile
 -	Personalization
 -	Customizable profile picture
 -	Bio and personal information
 -	Meme collection showcase
 -	Liked memes history
 
-4. # Navigation & Discovery
+# Navigation & Discovery
 -	Explorer Page
 -	Browse trending memes
 -	Search functionality
@@ -53,7 +53,7 @@ MemeVerse - A Modern Meme Sharing Platform
 -	Trending content
 
 # Optimizations
-1. # Performance
+# Performance
 -	Image Optimization
 -	Lazy loading for images
 -	Cloudinary's automatic optimization
@@ -63,19 +63,19 @@ MemeVerse - A Modern Meme Sharing Platform
 -	Dynamic imports for heavy components
 -	Optimized bundle size
 
-2. # State Management
+ # State Management
 -	Redux Implementation
 -	Centralized state management
 -	Efficient updates using Redux Toolkit
 -	Persistent storage integration
 
-3. # User Interface
+ # User Interface
 -	Responsive Design
 -	Fluid layouts
 -	Optimized for all screen sizes
 -	Touch-friendly interactions
 
-4. # Development
+ # Development
 -	Modern Tooling
 -	Vite for fast development
 -	ESLint for code quality
