@@ -1,17 +1,17 @@
 MemeVerse - A Modern Meme Sharing Platform
 Tech Stack
 Frontend
-•	React 19 - Latest version of React for building the user interface
-•	Vite - Next-generation frontend tooling for fast development and building
-•	Redux Toolkit - State management with modern Redux best practices
-•	React Router v7 - For client-side routing
-•	Tailwind CSS - Utility-first CSS framework for styling
-•	Framer Motion - For smooth animations and transitions
-•	Heroicons - Beautiful hand-crafted SVG icons
-•	Axios - HTTP client for API requests
-•	Cloudinary - Cloud storage for meme images
+-   React 19 - Latest version of React for building the user interface
+-   Vite - Next-generation frontend tooling for fast development and building
+-	Redux Toolkit - State management with modern Redux best practices
+-	React Router v7 - For client-side routing
+-	Tailwind CSS - Utility-first CSS framework for styling
+-	Framer Motion - For smooth animations and transitions
+-	Heroicons - Beautiful hand-crafted SVG icons
+-	Axios - HTTP client for API requests
+-	Cloudinary - Cloud storage for meme images
 
-Features
+#Features
 1. Core Meme Features
 •	Meme Upload
 •	Support for images and GIFs
