@@ -8,11 +8,9 @@ Frontend
 •	Tailwind CSS - Utility-first CSS framework for styling
 •	Framer Motion - For smooth animations and transitions
 •	Heroicons - Beautiful hand-crafted SVG icons
-Backend Integration
 •	Axios - HTTP client for API requests
 •	Cloudinary - Cloud storage for meme images
-•	Express - Backend server framework
-•	Mongoose - MongoDB object modeling tool
+
 Features
 1. Core Meme Features
 •	Meme Upload
